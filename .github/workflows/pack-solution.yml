@@ -1,4 +1,4 @@
-name: Pack Contoso_University_Core2
+name: Pack Contoso_University_Core
 on:
   push:
     paths:
